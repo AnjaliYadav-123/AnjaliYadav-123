@@ -10,6 +10,10 @@
 - 📫 How to reach me **anjalidyadav8482@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+<a href="https://www.linkedin.com/in/anjali-yadav-71b409278/">
+    <img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png"></a>
+    
 <p align="left">
 </p>
 
