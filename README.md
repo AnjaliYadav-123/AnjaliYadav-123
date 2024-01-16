@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaliyadav-123&label=Profile%20views&color=0e75b6&style=flat" alt="anjaliyadav-123" /> </p>
 
-- 🔭 I’m currently working on [Data Science Projects](https://github.com/AnjaliYadav-123/Unemployment_Prediction)
+- 🔭 I’m currently working on [Data Analysis Projects](https://github.com/AnjaliYadav-123/Unemployment_Prediction)
 
-- 🌱 I’m currently learning **Power BI , Tableau**
+- 🌱 I’m currently learning **Power BI**
 
 - 📫 How to reach me **anjalidyadav8482@gmail.com**
 
